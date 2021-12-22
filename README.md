@@ -1,5 +1,6 @@
 # HumanActivityRecognition
-===================================================================================================
+This project is to build a Classical ML model on human engineered / hand crafted time series data and DL model(simple LSTM) on Raw time series data that predicts Human Activities such as Walking, Sitting, Laying, Standing, Walking_Upstairs, walking_Downstairs.
+============================
 Human Activity Recognition Using Smartphones Dataset
 Version 1.0
 ===================================================================================================
